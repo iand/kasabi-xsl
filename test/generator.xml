@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="name"/>
+    <variable name="description"/>
+    <variable name="lat"/>
+    <variable name="long"/>
+  </head>
+  <results>
+    <result>
+      <binding name="name">
+        <literal>R00001NANI</literal>
+      </binding>
+      <binding name="description">
+        <literal>Balcas Timber - C,D</literal>
+      </binding>
+      <binding name="lat">
+        <literal>54.416377</literal>
+      </binding>
+      <binding name="long">
+        <literal>-7.609223</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00001NQNI</literal>
+      </binding>
+      <binding name="description">
+        <literal>Lendrums Bridge - ECO Unit</literal>
+      </binding>
+      <binding name="lat">
+        <literal>54.860016</literal>
+      </binding>
+      <binding name="long">
+        <literal>-5.853241</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00001RQWA</literal>
+      </binding>
+      <binding name="description">
+        <literal>Hafoty Ucha I &amp; III</literal>
+      </binding>
+      <binding name="lat">
+        <literal>52.883611</literal>
+      </binding>
+      <binding name="long">
+        <literal>-3.588333</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00001NJNI</literal>
+      </binding>
+      <binding name="description">
+        <literal>Lisbane Landfill gas</literal>
+      </binding>
+      <binding name="lat">
+        <literal>54.352744</literal>
+      </binding>
+      <binding name="long">
+        <literal>-6.427941</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00001SASC</literal>
+      </binding>
+      <binding name="description">
+        <literal>Westfield Biomass Plant - A,C</literal>
+      </binding>
+      <binding name="lat">
+        <literal>56.167947</literal>
+      </binding>
+      <binding name="long">
+        <literal>-3.305968</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00003NQNI</literal>
+      </binding>
+      <binding name="description">
+        <literal>Owenreagh Windfarms- A,C</literal>
+      </binding>
+      <binding name="lat">
+        <literal>54.808333</literal>
+      </binding>
+      <binding name="long">
+        <literal>-7.331667</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00002RPEN</literal>
+      </binding>
+      <binding name="description">
+        <literal>Blythe Offshore Wind Turbine WTG 2</literal>
+      </binding>
+      <binding name="lat">
+        <literal>55.135833</literal>
+      </binding>
+      <binding name="long">
+        <literal>-1.490278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00002SDSC</literal>
+      </binding>
+      <binding name="description">
+        <literal>New Lanark Mills - D</literal>
+      </binding>
+      <binding name="lat">
+        <literal>55.662158</literal>
+      </binding>
+      <binding name="long">
+        <literal>-3.780674</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00002SPSC</literal>
+      </binding>
+      <binding name="description">
+        <literal>Robin Rigg Offshore Wind Farm (West)</literal>
+      </binding>
+      <binding name="lat">
+        <literal>54.750000</literal>
+      </binding>
+      <binding name="long">
+        <literal>-3.683333</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="name">
+        <literal>R00003SESC</literal>
+      </binding>
+      <binding name="description">
+        <literal>Nant Power Station - A,E</literal>
+      </binding>
+      <binding name="lat">
+        <literal>56.359742</literal>
+      </binding>
+      <binding name="long">
+        <literal>-5.179665</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
